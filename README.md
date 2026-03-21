@@ -34,5 +34,3 @@ cmake ..
 make
 ./payroll_system
 ```
-
-## 👩‍💻 Автор
